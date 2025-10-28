@@ -35,6 +35,7 @@ This project demonstrates my skills in **DOM manipulation, animation, event hand
 ---
 
 ## Project Structure
+"
 catch-the-falling/
 ├─ index.html
 ├─ style.css
@@ -44,7 +45,7 @@ catch-the-falling/
 ├─ assets/
 │   └─ catch-game.gif
 └─ README.md
-
+"
 ---
 
 ## Features
