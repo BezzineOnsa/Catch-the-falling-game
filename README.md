@@ -3,7 +3,6 @@
 <p align="center">
   <img src="assets/catch-game.gif" alt="Catch the Falling Game" width="450">
 </p>
-![Catch the Falling Game](assets/catch-game.gif)
 
 **Catch the Falling** is a fun web mini-game built with **HTML, CSS, and JavaScript**.  
 The goal is simple: **catch at least 20 falling objects out of 30** to win the game!
